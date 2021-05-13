@@ -1,0 +1,57 @@
+.home{
+    background-color:rgb(214, 228, 188);
+    padding:1px;
+    padding-left:40px;
+   text-align: right;
+   margin-right: 0%;
+   margin-left: 1%;
+}
+ul li{
+    display :inline;
+    padding-left: 50px;
+    font-size: 150%;
+}
+.pic{
+    float: right;
+    display: grid;
+}
+.body{
+    padding:30px;
+    font-size: 130%;
+}
+body{
+    background-color: chocolate;
+}
+.mary{
+   background-size: cover;
+   position: sticky;
+}.image{
+    float: right;
+}
+.ultra{
+    float: left;
+    object-position: right;
+
+}
+.content{ padding-right: 70px;
+  display: grid;
+  padding: 1%;
+  font-size: 140%;
+  object-position: left;
+  /*height: -100%;
+  width: -100%;*/
+
+}
+.intro{
+    font-size: 120%;
+}
+
+.quote{
+   text-align: center;
+   font-style: italic;
+}
+.con{
+    font-style: italic;
+    font-size:200%;
+}
+
